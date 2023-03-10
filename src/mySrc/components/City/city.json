@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ha Noi",
+    "subText": "123 properties",
+    "image": "./CityImage/Ha Noi.jpg"
+  },
+  {
+    "name": "Da Nang",
+    "subText": "533 properties",
+    "image": "./CityImage/Da Nang.jpg"
+  },
+  {
+    "name": "Ho Chi Minh",
+    "subText": "532 properties",
+    "image": "./CityImage/HCM.jpg"
+  }
+]

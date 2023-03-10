@@ -1,0 +1,40 @@
+.dt_containner {
+  margin: 2rem;
+}
+
+.detail_photos {
+  display: flex;
+  flex-wrap: wrap;
+}
+.detail_photos img {
+  width: 20rem;
+  margin: 2rem 1rem;
+}
+.detail_desc {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.desc_container {
+  width: 60%;
+}
+.detail_location {
+  color: blue;
+  font-weight: bold;
+}
+.detail_price {
+  color: green;
+  font-weight: bold;
+}
+.detail_book{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.detail_book div{
+    display: flex;
+}
+.detail_book p{
+    font-size: 30px;
+}

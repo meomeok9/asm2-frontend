@@ -1,0 +1,10 @@
+.main_hotel_container{
+padding-left: 20px;
+padding-right: 20px;
+margin: 20px;
+}
+.sub_hotel_container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}

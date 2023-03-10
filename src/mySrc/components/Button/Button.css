@@ -1,0 +1,11 @@
+.cus_btn {
+  background-color: #168fe6;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  width: 100%;
+  font-size: 12px;
+  cursor: pointer;
+}

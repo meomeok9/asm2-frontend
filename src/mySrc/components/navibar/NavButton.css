@@ -1,0 +1,23 @@
+.nav_btn {
+  background-color: #003580;
+  color: white;
+  margin: 20px;
+  display: inline-block;
+  font-family: inherit;
+  font-weight: 500;
+  border: none;
+  padding: 10px 12px;
+  border-radius: 10rem;
+  cursor: pointer;
+  transition: all 0.3s;
+  /* border: 1px solid white;  */
+}
+.nav_btn--active {
+  border: 1px solid white;
+}
+
+.nav_container {
+  background-color: #003580;
+  width: 100%;
+  display: flex;
+}

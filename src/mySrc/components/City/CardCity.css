@@ -1,0 +1,13 @@
+.img_city_container {
+  z-index: -1;
+}
+.img_city_text_container {
+  padding-left: 20px;
+  color: white;
+  transform: translateY(-100px);
+}
+.img_city {
+  border-radius: 15px;
+  width: 280px;
+  height: 200px;
+}

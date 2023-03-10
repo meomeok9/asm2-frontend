@@ -1,0 +1,15 @@
+.img_type_container {
+  width: 15%;
+}
+
+.img_type {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  width: 150px;
+  height: 130px;
+}
+.h3_type_blur {
+  opacity: 0.3;
+  margin-top: 0px;
+}
+

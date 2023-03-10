@@ -1,0 +1,19 @@
+.login_form {
+  display: flex;
+  width: 30rem;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 1rem;
+  border: 2px solid rgb(255, 230, 1);
+  padding: 2rem;
+}
+.login_row {
+  display: flex;
+  justify-content: space-between;
+}
+.login_row input {
+  margin-left: 3rem;
+  width: 20rem;
+  border: none;
+}

@@ -1,0 +1,24 @@
+.head_container {
+  padding-top: 50px;
+  padding-left: 20px;
+  height: 250px;
+  background-color: #003580;
+  color: white;
+}
+.link_container {
+  background-color: #0071c2;
+  height: 300px;
+  display: inline;
+  height: 300px;
+}
+.head_a {
+  text-decoration: none;
+  color: white;
+}
+.head_sm_input {
+  width: 80px;
+}
+h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

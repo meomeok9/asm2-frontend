@@ -1,0 +1,31 @@
+.nav_container {
+  background-color: #003580;
+  display: flex;
+  flex-direction: column;
+}
+.nav_top {
+  display: flex;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  justify-content: space-between;
+}
+.nav_btn--top {
+  margin-right: 10px;
+  color: #003580;
+  cursor: pointer;
+}
+
+.nav_a {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+.nav_wc {
+  color: white;
+  margin-right: 1rem;
+}
+.wc_container {
+  display: flex;
+  align-items: center;
+}

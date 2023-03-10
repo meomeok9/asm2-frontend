@@ -1,0 +1,41 @@
+.headCard2_container {
+  display: flex;
+  margin-left: 1px;
+  padding: 0.5rem 0.2rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.headcard2 {
+  background-color: aqua;
+}
+.headcard2 p {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+.detailcard {
+  background-color: darkgray;
+  overflow-wrap: anywhere;
+}
+.booked {
+  background-color: rgb(241, 158, 158);
+  color: green;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 0.5rem;
+}
+.checkin {
+  background-color: green;
+  color: chocolate;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 0.5rem;
+}
+.checkout {
+  background-color: grey;
+  color: aqua;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 0.5rem;
+}

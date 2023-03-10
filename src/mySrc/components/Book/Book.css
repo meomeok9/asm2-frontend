@@ -1,0 +1,35 @@
+.book_info {
+  display: flex;
+  margin: 0 4rem;
+  justify-content: space-between;
+}
+.allroomcard {
+  display: flex;
+  flex-wrap: wrap;
+}
+.info_book {
+  width: 70%;
+}
+.info_book input {
+  padding: 1rem;
+  width: 60%;
+  border-color: rgba(0, 0, 0, 0.425);
+}
+.info_book input:focus {
+  outline-color: aqua;
+}
+.bill_sp{
+    color: maroon
+}
+.book_method{
+  display: flex;
+  align-items: center;
+  margin: 0 5rem 5rem 5rem;
+}
+.book_method Button{
+  margin-left: 5rem;
+  padding: 1rem;
+}
+.book_method select{
+  padding: 1rem;
+}

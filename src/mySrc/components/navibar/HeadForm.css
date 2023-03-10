@@ -1,0 +1,47 @@
+.head_main {
+  border: solid 3px rgb(224, 191, 0);
+  border-radius: 1rem;
+  width: 90%;
+  height: 30px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: white;
+  transform: translateY(-25px);
+  padding-top: 10px;
+}
+.header_input {
+  border: none;
+  margin-left: 5px;
+}
+.header_input:focus {
+  background-color: rgb(31, 254, 176);
+}
+.head_btn {
+  color: white;
+  background-color: #006aff;
+  height: 35px;
+  border: none;
+  cursor: pointer;
+  transform: translateY(-8px);
+}
+.head_input {
+  display: flex;
+
+}
+.head_bed {
+  width: 20%;
+}
+.head_calendar {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+}
+.head_other {
+  width: 10%;
+  opacity: 0.5;
+}
+.daterange_input{
+  width: 90%;
+}
